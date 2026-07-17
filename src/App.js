@@ -49,7 +49,7 @@ function App() {
     formData.append("file", audioBlob, "voice_input.webm");
 
     try {
-      const response = await axios.post('http://localhost:8000/api/transcribe', formData, {
+      const response = await axios.post('https://yojanamitra-backend-xvwl.onrender.com/api/transcribe', formData, {
         headers: { "Content-Type": "multipart/form-data" }
       });
       // Directly enter the text received from the backend into the textbox
@@ -67,7 +67,7 @@ function App() {
     if (!inputText) return;
     setLoading(true);
     try {
-      const response = await axios.post('http://localhost:8000/api/search-schemes', {
+      const response = await axios.post('https://yojanamitra-backend-xvwl.onrender.com/api/search-schemes', {
         text: inputText
       });
       setResults(response.data);
