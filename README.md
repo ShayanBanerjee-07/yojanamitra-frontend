@@ -1,6 +1,6 @@
 # 🇮🇳 YojanaMitra AI - NxtWave Hackathon Submission
 
-**Live Demo:** [yojanamitra-frontend.vercel.app]
+**Live Demo:** [https://yojanamitra-frontend.vercel.app]
 **Backend API:** [https://yojanamitra-backend-xvwl.onrender.com]
 
 ## 🎯 The Problem
