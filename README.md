@@ -2,6 +2,9 @@
 
 **Live Demo:** [https://yojanamitra-frontend.vercel.app]
 **Backend API:** [https://yojanamitra-backend-xvwl.onrender.com]
+## 🔗 Project Repositories
+* **Frontend (React):** [View Source Code](https://github.com/ShayanBanerjee-07/yojanamitra-frontend)
+* **Backend (FastAPI):** [View Source Code](https://github.com/ShayanBanerjee-07/yojanamitra-backend)
 
 ## 🎯 The Problem
 Millions of eligible citizens in rural India miss out on government schemes because of complex eligibility criteria and difficult-to-navigate government portals. The barrier is language and digital literacy, not the lack of schemes.
@@ -24,4 +27,4 @@ The AI engine processes this unstructured data, extracts key demographic variabl
 4. **Cloud Native:** Fully deployed and decoupled frontend-backend architecture.
 
 ---
-*Built as a solo project for the NxtWave CCBP 4.0 Hackathon Qualifier.*
+*Built as a solo project for the NxtWave CCBP 4.0 ideA To Impact Hackathon Qualifier.*
