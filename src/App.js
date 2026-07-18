@@ -76,7 +76,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1 className="header-title">YojanaMitra AI 🇮🇳</h1>
+      <h1 className="header-title">Yojana<span>Mitra</span> AI 🇮🇳</h1>
       <p className="header-subtitle">Apni pareshani ya profile natural language mein likhein ya bolein.</p>
       
       <form onSubmit={handleSubmit}>
